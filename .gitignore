@@ -1,0 +1,17 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+..gradle
+.build
+.build.gradle
+.gradle.properties
+.gradlew
+.gradlew.bat
+.local.properties
+.ReservationSystem.yml
+.settings.gradle
+

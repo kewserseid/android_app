@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReservationSystem</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rooms">rooms</string>
+    <string name="title_activity_formpage">Formpage</string>
+    <string name="title_activity_aboutus">Aboutus</string>
+    <string name="title_activity_groupname">Groupname</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_administrator">Administrator</string>
+    <string name="title_activity_room">room</string>
+    <string name="title_activity_adminlogin">adminlogin</string>
+    <string name="title_activity_bookedlist">bookedlist</string>
+    <string name="title_activity_group">group</string>
+    <string name="title_activity_details">details</string>
+    <string name="title_activity_notification__view">Notification_View</string>
+</resources>
